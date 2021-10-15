@@ -1,5 +1,33 @@
 
-This is a story about Phoebe from rural Pennsylvania. Since she was little, she loved to eat and cook food. It was what made her feel comforted and by making food for others, she hoped to comfort them as well. One of Phoebe’s favorite foods was succotash. It was so unassuming, just lima beans and corn. However, she loved how easy it was to make and act as a canvas for creative modifications. Her grandmother made it hers by always boiling the corn cobs in with the beans to infuse them with their milky sweetness. Her own mother went further by adding butter and cream to the whole mixture. Phoebe’s own contribution was adding a just a little bit of bacon. One day, Phoebe was inspired to go on a quest to learn more about succotash as a traditional American food and the ways that others all over the country made their own versions. 
-	Phoebe decided to travel to the dairyland of the United States to learn how people in Wisconsin made succotash. Pheobe was shocked to learn that folks in Wisconsin were not in love with succotash the way she was. They had not yet learned how to enjoy the simplicity of the dish. Though disappointed, Phoebe had not given up hope that there were others that appreciated succotash the way she did.
-		After spending some time in Wiscosin, Phoebe realized she liked cheese more than any succotash. She liked cheese so much that she applied to work on a cheese farm. Amazingly, she was hired! She began churning up some of the best cheese in all of dairyland.
-	In no time at all, people from all over the world had heard of her incredible cheese. They would travel from all over, Paris to Tokyo, London to Beijing just to try it. Phoebe felt such a sense of fulfillment as she was able to touch so many hearts with her work.
+This is a story about Phoebe from rural Pennsylvania. Since she was 
+	little, she loved to eat and cook food. It was what made her 
+	feel comforted and by making food for others, she hoped to 
+	comfort them as well. One of Phoebe’s favorite foods was 
+	succotash. It was so unassuming, just lima beans and corn. 
+	However, she loved how easy it was to make and act as a 
+	canvas for creative modifications. Her grandmother made it 
+	hers by always boiling the corn cobs in with the beans to 
+	infuse them with their milky sweetness. Her own mother went 
+	further by adding butter and cream to the whole mixture. 
+	Phoebe’s own contribution was adding a just a little bit of 
+	bacon. One day, Phoebe was inspired to go on a quest to learn 
+	more about succotash as a traditional American food and the 
+	ways that others all over the country made their own 
+	versions. Phoebe decided to travel to the dairyland of the 
+	United States to learn how people in Wisconsin made 
+	succotash. Pheobe was shocked to learn that folks in 
+	Wisconsin were not in love with succotash the way she was. 
+	They had not yet learned how to enjoy the simplicity of the 
+	dish. Though disappointed, Phoebe had not given up hope that 
+	there were others that appreciated succotash the way she did.
+		After spending some time in Wiscosin, Phoebe realized 
+	she liked cheese more than any succotash. She liked cheese so 
+	much that she applied to work on a cheese farm. Amazingly, 
+	she was hired! She began churning up some of the best cheese 
+	in all of dairyland. In no time at all, people from all over 
+	the world had heard of her incredible cheese. They would 
+	travel from all over, Paris to Tokyo, London to Beijing just 
+	to try it. Phoebe felt such a sense of fulfillment as she was 
+	able to touch so many hearts with her work. After finding her 
+	true calling, Phoebe's heart swelled with pride. Cheese made 
+	people even happier than succotash!
